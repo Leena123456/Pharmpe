@@ -1,6 +1,6 @@
 # PHARMPE
 
-PharmPE is a comprehensive mobile application designed to revolutionize the pharmacy shopping experience. Developed using Flutter and Dart, PharmPE provides a seamless interface for users to browse, search, and purchase medications, skincare products, baby products, soaps, men's products, perfumes, health kits, and health drinks.
+PharmPe is a comprehensive mobile application designed to revolutionize the pharmacy shopping experience. Developed using Flutter and Dart, PharmPE provides a seamless interface for users to browse, search, and purchase medications, skincare products, baby products, soaps, men's products, perfumes, health kits, and health drinks.
 
 
 ## Screenshots
